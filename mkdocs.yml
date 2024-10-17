@@ -5,7 +5,7 @@ site_author: Dirección General de Seguimiento de Organismos de Control y Acceso
 repo_url: https://github.com/transparenciaba/
 
 nav:
-    - Inicio: docs/README.md
+    - Inicio: README.md
     - Institucional: institucional.md
     - Declaraciones Juradas: declaraciones-juradas.md
     - Informes de Auditoría: informes-auditoria.md
