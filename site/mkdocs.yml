@@ -3,8 +3,6 @@ site_url: https://transparenciaba.github.io/guias-publicacion-ta/
 site_description: Esquemas de publicación de Transparencia Activa del Gobierno de la Ciudad Autónoma de Buenos Aires.
 site_author: Dirección General de Seguimiento de Organismos de Control y Acceso a la Información
 repo_url: https://github.com/transparenciaba/
-site_dir: docs
-
 
 nav:
     - Inicio: README.md
@@ -27,6 +25,4 @@ nav:
     - Cronogramas: cronogramas-publicacion.md
     - Orientación: orientacion.md
 
-theme:
-  name: null
-  custom_dir: datosgcba_docs
+theme: datosgcba_docs

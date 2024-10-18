@@ -1,0 +1,9 @@
+# Config options for 'amelia' theme
+
+extends: material
+
+hljs_style: github
+
+logo: 'assets/images/logos/ba_logo.png'
+
+language: es
