@@ -25,4 +25,6 @@ nav:
     - Cronogramas: cronogramas-publicacion.md
     - Orientación: orientacion.md
 
-theme: datosgcba_docs
+theme:
+  name: null
+  custom_dir: datosgcba_docs
